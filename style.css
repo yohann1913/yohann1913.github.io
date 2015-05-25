@@ -1,11 +1,48 @@
-navl ul 
+nav ul
 {
-padding-left: 10;
-margin-left: 10;
-backgrounf-color: #AA3939
+padding-left: 0;
+margin-left: 0;
+background-color: ##AA3939;
+color: white;
 float: left;
 width: 100%;
-font-family: ses-serif, arial;
+font-family: arial, helvetica, sans-serif;
 position: static;
 }
 
+nav ul li a
+{
+text-decoration: none;
+}
+
+nav ul li
+{
+padding: 0.2em 1em;
+background-color: #ff4716;
+color: white;
+text-decoration: none;
+float: left;
+border-right: 1px solid #fff;
+display: inline;
+}
+
+nav ul li a:hover
+{
+background-color: #a58362;
+color: #fff;
+}
+
+nav ul li:hover
+{
+background-color: #a58362;
+}
+
+nav a:link
+{
+color: white;
+}
+
+body
+{
+background-color: #abcdef;
+}
