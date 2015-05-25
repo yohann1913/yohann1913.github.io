@@ -1,7 +1,7 @@
 nav ul
 {
-padding-left: 0;
-margin-left: 0;
+padding-left: 10;
+margin-left: 10;
 background-color: ##AA3939;
 color: white;
 float: left;
@@ -18,7 +18,7 @@ text-decoration: none;
 nav ul li
 {
 padding: 0.2em 1em;
-background-color: #ff4716;
+background-color: #2B611D;
 color: white;
 text-decoration: none;
 float: left;
@@ -28,13 +28,13 @@ display: inline;
 
 nav ul li a:hover
 {
-background-color: #a58362;
+background-color: #E684AA;
 color: #fff;
 }
 
 nav ul li:hover
 {
-background-color: #a58362;
+background-color: #E684AA;
 }
 
 nav a:link
@@ -44,5 +44,5 @@ color: white;
 
 body
 {
-background-color: #abcdef;
+background-color: #E684AA;
 }
