@@ -1,5 +1,4 @@
-nav ul
-{
+nav ul{
 padding-left: 10;
 margin-left: 10;
 background-color: ##AA3939;
@@ -10,40 +9,38 @@ font-family: arial, helvetica, sans-serif;
 position: static;
 }
 
-nav ul li a
-{
-text-decoration: none;
-}
-
-nav ul li
-{
-padding: 0.2em 1em;
-background-color: #2B611D;
-color: white;
-text-decoration: none;
-float: left;
-border-right: 1px solid #fff;
-display: inline;
-}
-
+nav ul li{
 nav ul li a:hover
 {
 background-color: #E2F53B;
 color: #E684AA;
 }
 
-nav ul li:hover
-{
+nav ul li:hover{
 background-color: #3BF53B;
 }
 
-nav a:link
-{
+nav a:link{
 font-family: 'Titillium Web', sans-serif;
 color: white;
 }
 
-body
-{
+body{
 background-color: #E684AA;
 }
+
+
+nav ul li{
+	padding; 0.2em 1em ; 
+	background-color:320138
+	color; White 
+}
+
+#mainContent{
+	back-ground:#9AFF46;
+	margin: 40 px 100px;
+	padding: 20px 30 px; 
+	border:soild;
+	boder-radius:25px;
+
+
