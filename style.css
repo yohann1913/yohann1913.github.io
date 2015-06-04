@@ -6,6 +6,18 @@ border-right: 1px solid #fff;
 display: inline;
 }
 
+nav ul
+{
+padding-left: 10;
+margin-left: 10;
+background-color: ##AA3939;
+color: white;
+float: left;
+width: 100%;
+font-family: arial, helvetica, sans-serif;
+position: static;
+}
+
 nav ul li a:hover
 {
 background-color: #fff542;
