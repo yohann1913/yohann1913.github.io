@@ -1,44 +1,45 @@
-nav ul
-{
-padding-left: 10;
-margin-left: 10;
-background-color: ##AA3939;
+background-color: #ff4242;
 color: white;
+text-decoration: none;
 float: left;
-width: 100%;
-font-family: arial, helvetica, sans-serif;
-position: static;
+border-right: 1px solid #fff;
+display: inline;
 }
 
-nav ul li
-{
 nav ul li a:hover
 {
-background-color: #E2F53B;
-color: #E684AA;
+background-color: #fff542;
+color: #fff;
 }
 
 nav ul li:hover
 {
-background-color: #3BF53B;
+background-color: #fff542;
 }
 
 nav a:link
 {
-font-family: 'Titillium Web', sans-serif;
 color: white;
 }
 
-body
+body ol p
 {
-background-color: #E684AA;
+font-size: 1.5em;
 }
 
+body{
+background-color: #4bf2e4;
+}
 
-nav ul li
+ol li a
 {
-	padding; 0.2em 1em ; 
-	background-color:320138
-	color; White 
+color: black;
+text-decoration: none;
+}
+
+p.poem
+{
+font-size: 0.8em;
+color: red;
 }
 
