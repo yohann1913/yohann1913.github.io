@@ -40,3 +40,15 @@ nav ul li a:hover {
 	color: #fff;
 }
 
+nav ul
+{
+padding-left: 10;
+margin-left: 10;
+background-color: #AA3939;
+color: red;
+float: left;
+width: 100%;
+font-family: arial, helvetica, sans-serif;
+position: static;
+}
+
