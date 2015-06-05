@@ -1,4 +1,4 @@
-nav ul
+nav
 {
 background-color: #ff4242;
 color: white;
@@ -26,7 +26,8 @@ color: white;
 
 
 
-body{
+body
+{
 background-color: #4bf2e4;
 }
 
