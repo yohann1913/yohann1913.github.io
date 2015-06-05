@@ -1,3 +1,95 @@
+
+.pullquote {
+	margin-left:75px;
+	margin-right:125px;
+	font-size: 1.5em;
+}
+
+p {
+	color: #320138;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul {
+	padding-left: 0;
+	margin-left: 0;
+	background-color: #320138;
+	color: White;
+	float: left;
+	width: 100%;
+	margin-top: 0;
+	padding-top: 0;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+nav ul li a {
+	padding: 0.2em 1em;
+	background-color: #320138;
+	color: White;
+	text-decoration: none;
+	float: left;
+	border-right: 1px solid #fff;
+}
+
+nav ul li a:hover {
+	background-color: #68266F;
+	color: #fff;
+}
+
+nav ul li:hover
+{
+background-color: #3BF53B;
+}
+
+
+nav ul
+{
+padding-left: 10;
+margin-left: 10;
+background-color: #AA3939;
+color: red;
+float: left;
+width: 100%;
+font-family: arial, helvetica, sans-serif;
+position: static;
+}
+
+nav ul li
+{
+nav ul li a:hover
+{
+background-color: #E2F53B;
+color: #E684AA;
+}
+
+nav ul li:hover
+{
+background-color: #3BF53B;
+}
+
+nav a:link
+{
+font-family: 'Titillium Web', sans-serif;
+color: white;
+}
+
+body
+{
+background-color: #E684AA;
+}
+
+
+nav ul li
+{
+	padding; 0.2em 1em ; 
+	background-color:320138
+	color; White 
+}
+
 body {
 		background-color:#FB0012;
 }
@@ -47,3 +139,5 @@ nav ul {
 	margin-left: 0;
 	padding-left: 0;
 }
+
+
