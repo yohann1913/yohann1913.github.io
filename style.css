@@ -31,4 +31,7 @@ body
 background-color: #4bf2e4;
 }
 
+h1 {
+	clear: left;
+}
 
