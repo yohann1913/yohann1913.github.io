@@ -1,78 +1,4 @@
-
-.pullquote {
-	margin-left:75px;
-	margin-right:125px;
-	font-size: 1.5em;
-}
-
-p {
-	color: #320138;
-}
-
-nav ul li {
-	display: inline;
-}
-
-nav ul {
-	padding-left: 0;
-	margin-left: 0;
-	background-color: #320138;
-	color: White;
-	float: left;
-	width: 100%;
-	margin-top: 0;
-	padding-top: 0;
-	margin-left: 0;
-	padding-left: 0;
-}
-
-nav ul li a {
-	padding: 0.2em 1em;
-	background-color: #320138;
-	color: White;
-	text-decoration: none;
-	float: left;
-	border-right: 1px solid #fff;
-}
-
-nav ul li a:hover {
-	background-color: #68266F;
-	color: #fff;
-}
-
-nav ul li:hover
-{
-background-color: #3BF53B;
-}
-
-
-
->>>>>>> parent of 25ff498... padding
-nav ul
-{
-padding-left: 10;
-margin-left: 10;
-background-color: #AA3939;
-color: red;
-float: left;
-width: 100%;
-font-family: arial, helvetica, sans-serif;
-position: static;
-}
-
-
-nav ul li
-{
-=======
-nav ul li a
-{
-text-decoration: none;
-}
-
-nav ul li
-{
-padding: 0.2em 1em;
-background-color: #2B611D;
+background-color: #ff4242;
 color: white;
 text-decoration: none;
 float: left;
@@ -80,85 +6,39 @@ border-right: 1px solid #fff;
 display: inline;
 }
 
->>>>>>> parent of 25ff498... padding
 nav ul li a:hover
 {
-background-color: #E2F53B;
-color: #E684AA;
+background-color: #fff542;
+color: #fff;
 }
 
 nav ul li:hover
 {
-background-color: #3BF53B;
+background-color: #fff542;
 }
 
 nav a:link
 {
-font-family: 'Titillium Web', sans-serif;
 color: white;
 }
 
-body
+body ol p
 {
-background-color: #E684AA;
+font-size: 1.5em;
 }
 
+body{
+background-color: #4bf2e4;
+}
 
-nav ul li
+ol li a
 {
-	padding; 0.2em 1em ; 
-	background-color:320138
-	color; White 
+color: black;
+text-decoration: none;
 }
 
-body {
-		background-color:#FB0012;
+p.poem
+{
+font-size: 0.8em;
+color: red;
 }
-
-#mainContent {
-	background-color:#9AFF46; 
-	margin: 40px 100px;
-	padding: 20px 30px;
-	border: solid;
-	border-radius: 25px;
-}
-
-h1 {
-	clear: left;
-	color: #68266F;
-	font-family: 'Open Sans Condensed', sans-serif;
-	padding-left: 100px;
-	border-width: 2px;
-	border-style: dashed;
-	margin-bottom: 50px;
-}
-}
-
-.pullquote {
-	margin-left:75px;
-	margin-right:125px;
-	font-size: 1.5em;
-}
-
-p {
-	color: #320138;
-}
-
-nav ul li {
-	display: inline;
-}
-
-nav ul {
-	padding-left: 0;
-	margin-left: 0;
-	background-color: #320138;
-	color: White;
-	float: left;
-	width: 100%;
-	margin-top: 0;
-	padding-top: 0;
-	margin-left: 0;
-	padding-left: 0;
-}
-
-
