@@ -1,3 +1,5 @@
+nav ul
+{
 background-color: #ff4242;
 color: white;
 text-decoration: none;
@@ -22,23 +24,10 @@ nav a:link
 color: white;
 }
 
-body ol p
-{
-font-size: 1.5em;
-}
+
 
 body{
 background-color: #4bf2e4;
 }
 
-ol li a
-{
-color: black;
-text-decoration: none;
-}
 
-p.poem
-{
-font-size: 0.8em;
-color: red;
-}
