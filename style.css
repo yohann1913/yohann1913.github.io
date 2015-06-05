@@ -40,8 +40,7 @@ nav ul li a:hover {
 	color: #fff;
 }
 
+nav ul li:hover
 {
-background-color: #E2F53B;
-color: #E684AA;
+background-color: #3BF53B;
 }
-
