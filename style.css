@@ -46,6 +46,8 @@ background-color: #3BF53B;
 }
 
 
+
+>>>>>>> parent of 25ff498... padding
 nav ul
 {
 padding-left: 10;
@@ -58,8 +60,27 @@ font-family: arial, helvetica, sans-serif;
 position: static;
 }
 
+
 nav ul li
 {
+=======
+nav ul li a
+{
+text-decoration: none;
+}
+
+nav ul li
+{
+padding: 0.2em 1em;
+background-color: #2B611D;
+color: white;
+text-decoration: none;
+float: left;
+border-right: 1px solid #fff;
+display: inline;
+}
+
+>>>>>>> parent of 25ff498... padding
 nav ul li a:hover
 {
 background-color: #E2F53B;
