@@ -1,3 +1,25 @@
+body {
+		background-color:#FB0012;
+}
+
+#mainContent {
+	background-color:#9AFF46; 
+	margin: 40px 100px;
+	padding: 20px 30px;
+	border: solid;
+	border-radius: 25px;
+}
+
+h1 {
+	clear: left;
+	color: #68266F;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding-left: 100px;
+	border-width: 2px;
+	border-style: dashed;
+	margin-bottom: 50px;
+}
+}
 
 .pullquote {
 	margin-left:75px;
@@ -24,68 +46,4 @@ nav ul {
 	padding-top: 0;
 	margin-left: 0;
 	padding-left: 0;
-}
-
-nav ul li a {
-	padding: 0.2em 1em;
-	background-color: #320138;
-	color: White;
-	text-decoration: none;
-	float: left;
-	border-right: 1px solid #fff;
-}
-
-nav ul li a:hover {
-	background-color: #68266F;
-	color: #fff;
-}
-
-nav ul li:hover
-{
-background-color: #3BF53B;
-}
-
-
-nav ul
-{
-padding-left: 10;
-margin-left: 10;
-background-color: #AA3939;
-color: red;
-float: left;
-width: 100%;
-font-family: arial, helvetica, sans-serif;
-position: static;
-}
-
-nav ul li
-{
-nav ul li a:hover
-{
-background-color: #E2F53B;
-color: #E684AA;
-}
-
-nav ul li:hover
-{
-background-color: #3BF53B;
-}
-
-nav a:link
-{
-font-family: 'Titillium Web', sans-serif;
-color: white;
-}
-
-body
-{
-background-color: #E684AA;
-}
-
-
-nav ul li
-{
-	padding; 0.2em 1em ; 
-	background-color:320138
-	color; White 
 }
